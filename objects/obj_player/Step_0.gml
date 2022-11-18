@@ -34,5 +34,10 @@ if(place_meeting(x,y+vsp,obj_collision))
 }
 y = y + vsp;
 
-
-
+if (!place_meeting(x,y+1,obj_collision))
+{
+	sprite_index = spr_playerJump
+	image_speed = 0
+	
+	
+}

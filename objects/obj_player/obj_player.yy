@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_playerWalk",
+    "path": "sprites/spr_playerWalk/spr_playerWalk.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
