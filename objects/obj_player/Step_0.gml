@@ -51,7 +51,7 @@ else
 	}
 	else
 	{
-		sprite_index = spr_playerWalk;
+		sprite_index = spr_playerRun	;
 	}
 }
 
