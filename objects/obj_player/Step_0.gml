@@ -1,6 +1,6 @@
 /// @description Insert description here
 key_left = keyboard_check(vk_left);
-key_right = keyboard_check(vk_right;
+key_right = keyboard_check(vk_right);
 key_jump = keyboard_check_pressed(vk_space);
 
 var _move = key_right - key_left;
@@ -13,7 +13,7 @@ if (place_meeting(x,y+1,obj_collision)) && (key_jump)
 {
 	vsp = -jumpsp
 }
-
+// Collision
 if (place_meeting(x+hsp,y,obj_collision))
 {
 	while (!place_meeting(x+sign(hsp),y,obj_collision))
@@ -34,6 +34,7 @@ if(place_meeting(x,y+vsp,obj_collision))
 }
 y = y + vsp;
 
+// Animation
 if (!place_meeting(x,y+1,obj_collision))
 {
 	sprite_index = spr_playerJump
@@ -50,7 +51,7 @@ else
 	}
 	else
 	{
-		sprite_index = spr_playerWalk
+		sprite_index = spr_playerWalk;
 	}
 }
 
