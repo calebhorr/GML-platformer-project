@@ -51,8 +51,9 @@ else
 	}
 	else
 	{
-		sprite_index = spr_playerRun	;
+		sprite_index = spr_playerWalk	;
 	}
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+
