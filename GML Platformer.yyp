@@ -17,6 +17,7 @@
     {"id":{"name":"spr_restart","path":"sprites/spr_restart/spr_restart.yy",},"order":10,},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},"order":4,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":6,},
+    {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},"order":2,},
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":3,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":8,},
@@ -43,6 +44,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm","path":"rooms/rm/rm.yy",},},
     {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
+    {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
