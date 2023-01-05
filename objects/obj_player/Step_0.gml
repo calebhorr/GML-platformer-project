@@ -5,8 +5,16 @@ key_jump = keyboard_check_pressed(vk_space);
 
 var _move = key_right - key_left;
 
+if !(keyboard_check(vk_lshift))
+{
 hsp = _move * walksp;
-
+sprite_index = spr_playerWalk
+}
+else
+{
+	hsp = _move * walksp * 1.5;
+	sprite_index = spr_playerRun;
+	}
 vsp = vsp + grv;
 
 if (place_meeting(x,y+1,obj_collision)) && (key_jump)

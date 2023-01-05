@@ -14,6 +14,7 @@
     {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},"order":1,},
     {"id":{"name":"spr_spike","path":"sprites/spr_spike/spr_spike.yy",},"order":11,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":0,},
+    {"id":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},"order":3,},
     {"id":{"name":"spr_restart","path":"sprites/spr_restart/spr_restart.yy",},"order":10,},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},"order":4,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":6,},
@@ -45,6 +46,7 @@
     {"roomId":{"name":"rm","path":"rooms/rm/rm.yy",},},
     {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
     {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
+    {"roomId":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
