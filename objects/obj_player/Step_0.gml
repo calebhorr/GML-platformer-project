@@ -12,7 +12,7 @@ sprite_index = spr_playerWalk
 }
 else
 {
-	hsp = _move * walksp * 1.25;
+	hsp = _move * walksp * 1.5;
 	sprite_index = spr_playerRun;
 	}
 vsp = vsp + grv;

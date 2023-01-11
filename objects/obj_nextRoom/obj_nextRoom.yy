@@ -7,7 +7,7 @@
     "path": "sprites/spr_roomchanger/spr_roomchanger.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
