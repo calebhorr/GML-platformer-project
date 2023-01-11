@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_turretL",
+  "name": "obj_nextRoom",
   "spriteId": {
-    "name": "spr_turret",
-    "path": "sprites/spr_turret/spr_turret.yy",
+    "name": "spr_roomchanger",
+    "path": "sprites/spr_roomchanger/spr_roomchanger.yy",
   },
   "solid": false,
   "visible": true,
